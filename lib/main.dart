@@ -1,5 +1,4 @@
-// A minimal Wordle-like demo with pause/resume, persistent resume, share score, and a time-limited mode.
-// Drop into lib/main.dart of a new Flutter project.
+
 
 import 'dart:async';
 import 'dart:convert';
